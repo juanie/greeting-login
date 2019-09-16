@@ -5,7 +5,7 @@ html{
     align-items: center;
     /*background-image:
     url('https://mdn.mozillademos.org/files/7693/catfront.png');*/
-    background:url("colorcode/assets/bg.jpg")
+    background:url("/assets/bg.jpg")
     font-family: Arial, Helvetica, sans-serif;
 }
 
